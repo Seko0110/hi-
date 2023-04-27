@@ -1,0 +1,27 @@
+*{
+    padding: 0%;
+    margin: 0px;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: blueviolet;
+}
+
+
+.bu{
+    width:30%;
+    color: white;
+    background-color:rgb(97, 235, 189) ;
+    border: none;
+    border-radius: 5px;
+    justify-content: center;
+ 
+
+}
+footer{
+    margin-left: 20px;
+}
+
+   
+
